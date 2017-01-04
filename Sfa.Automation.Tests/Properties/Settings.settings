@@ -1,9 +1,0 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mya.Automation.Tests.Properties" GeneratedClassName="Settings">
-  <Profiles />
-  <Settings>
-    <Setting Name="LandingPage" Type="(Web Service URL)" Scope="User">
-      <Value Profile="(Default)">https://at-eas.apprenticeships.sfa.bis.gov.uk/</Value>
-    </Setting>
-  </Settings>
-</SettingsFile>
