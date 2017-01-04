@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mya.Automation.AcceptanceTests", "Sfa.Automation.Tests\Mya.Automation.AcceptanceTests.csproj", "{9D404A6F-4172-4789-AEC2-7EF5C35B9B2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mya.Automation.AcceptanceTests", "Mya.Automation.AcceptanceTests\Mya.Automation.AcceptanceTests.csproj", "{9D404A6F-4172-4789-AEC2-7EF5C35B9B2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mya.Automation.Shared", "Sfa.das.Shared\Mya.Automation.Shared.csproj", "{7810D3AD-58BF-4DB2-A8DF-B2D4E81B07F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7986CEE-B708-49F7-A53A-7ECFCE44B5B1}"
+	ProjectSection(SolutionItems) = preProject
+		Build.fsx = Build.fsx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
